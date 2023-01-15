@@ -1,0 +1,42 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.outlook{
+    display: flex;
+    background-color: hsl(212, 45%, 89%);
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.mass{
+    background-color: #fff;
+    margin: 1.5rem;
+    padding: 1.5rem;
+     font-weight: 400;
+    border-radius: 30px;
+    text-align: center ;
+    
+}
+img{
+    border-radius: 30px;
+    margin: 1.2rem;
+    padding: 1.2rem;
+}
+figure{
+    margin: 1rem;
+    padding: 1rem;
+}
+.nowrap{
+    white-space: pre-wrap;
+}
+.weight{
+    color:hsl(218, 44%, 22%);
+    font-weight: 700;
+}
+p{
+    font-size: 15px;
+    color:  hsl(220, 15%, 55%);
+}
